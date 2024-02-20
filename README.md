@@ -8,6 +8,8 @@ WeatherApp es una aplicación que proporciona información meteorológica precis
 - **Pronóstico Extendido:** Accede al pronóstico del tiempo extendido para los próximos días.
 - **Detalles Meteorológicos:** Información detallada sobre la temperatura y estado del tiempo.
 - **Interfaz Intuitiva:** Diseño limpio y fácil de navegar para una experiencia de usuario fluida.
+- **Fondo Personalizado:** El fondo de la aplicación cambia según la hora del día, proporcionando una experiencia visual única y agradable.
+
 ## Requerimientos
 
 Para ejecutar esta aplicación, necesitarás tener instalado lo siguiente:
