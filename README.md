@@ -12,7 +12,8 @@
     </ul>
 
     <h2>Capturas de Pantalla</h2>
-    <!-- Inserta capturas de pantalla aquí -->
+    ![Primera pantalla](https://github.com/EdgarSuarezMota/ClimateTime/raw/master/Imagen1.png)
+
 
     <h2>Uso</h2>
     <ol>
