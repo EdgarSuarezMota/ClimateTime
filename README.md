@@ -8,9 +8,18 @@ WeatherApp es una aplicación que proporciona información meteorológica precis
 - **Pronóstico Extendido:** Accede al pronóstico del tiempo extendido para los próximos días.
 - **Detalles Meteorológicos:** Información detallada sobre la temperatura y estado del tiempo.
 - **Interfaz Intuitiva:** Diseño limpio y fácil de navegar para una experiencia de usuario fluida.
+## Requerimientos
+
+Para ejecutar esta aplicación, necesitarás tener instalado lo siguiente:
+
+- **Java Development Kit (JDK):** Versión 8 o superior.
+- **Android Studio:** Para compilar y ejecutar la aplicación en un emulador o dispositivo físico.
+- **Conexión a Internet:** Para obtener los datos meteorológicos en tiempo real.
 
 ## Capturas de Pantalla
 ![Primera pantalla](https://github.com/EdgarSuarezMota/ClimateTime/raw/master/Imagen1.png)
+![Segunda pantalla](https://github.com/EdgarSuarezMota/ClimateTime/raw/master/Imagen2.png)
+![Tercera pantalla](https://github.com/EdgarSuarezMota/ClimateTime/raw/master/Imagen3.png)
 
 ## Uso
 1. Abre la aplicación.
