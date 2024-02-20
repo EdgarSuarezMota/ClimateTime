@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hoy">Hoy</string>
+    <string name="manana">Mañana</string>
+    <string name="dias">2 dias</string>
+</resources>

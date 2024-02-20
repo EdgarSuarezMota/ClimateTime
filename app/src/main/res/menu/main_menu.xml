@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        android:enabled="true"
+        android:title="@string/hoy"/>
+    <item
+        android:id="@+id/page_2"
+        android:enabled="true"
+        android:title="@string/manana"/>
+    <item
+        android:id="@+id/page_3"
+        android:enabled="true"
+        android:title="@string/dias"/>
+</menu>
